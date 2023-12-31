@@ -7,3 +7,5 @@
 ## Debugging & Tools
 
 <img src="debugging_&_tools.png" alt="Debugging & Tools"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=modlin-dev&border_radius=5)](https://git.io/streak-stats)
