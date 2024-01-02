@@ -1,4 +1,4 @@
-<img src="modlin_inc.png" alt="Modlin Inc"/>
+<img src="modlin.png" alt="Modlin Inc"/>
 
 <img src="skills.png" alt="Devlopment Skills"/>
 
