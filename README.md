@@ -1,8 +1,8 @@
 <img src="public/images/modlin_inc.png" alt="Modlin Inc"/>
 
-<img src="public/images/skills1.png" alt="Modlin's Devlopment Skills 1"/>
+<img src="public/images/skills1.png" alt="Hiroshi Modlin's Skills 1"/>
 
-<img src="public/images/skills2.png" alt="Modlin's Devlopment Skills 2"/>
+<img src="public/images/skills2.png" alt="Hiroshi Modlin's Skills 2"/>
 
 <img src="public/images/languages.png" alt="Programming Languages"/>
 
